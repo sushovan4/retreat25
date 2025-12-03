@@ -1,0 +1,29 @@
+---
+title: "<span class='pref'>GW-DATS</span>Undergraduate Curriculum"
+subtitle: <green>Fall Faculty Retreat, 2025</green>
+author: "<green>Committee</green>: Angie W., James H., Sarah B., and Sush M." 
+fig-cap-location: bottom
+callout-icon: false
+format: 
+    revealjs:
+        theme: dark
+        slide-number: true
+        self-contained: true
+        incremental: true
+        css: style.css
+        navigation-mode: vertical
+editor: 
+  render-on-save: true
+html-math-method: mathml
+---
+
+# New Course Development
+
+# Current Courses
+
+# Domain Concentrations
+
+# Future Objectives
+
+
+# Thanks
