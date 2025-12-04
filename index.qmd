@@ -9,7 +9,7 @@ format:
         theme: dark
         slide-number: true
         self-contained: true
-        incremental: true
+        incremental: false
         css: style.css
         navigation-mode: vertical
 editor: 
@@ -17,13 +17,146 @@ editor:
 html-math-method: mathml
 ---
 
-# New Course Development
 
-# Current Courses
+# <green>Current</green> Program 
+
+## Prerequisites 
+
+- (CSCI) Introduction to Programming with Python	
+- (MATH) Single-Variable Calculus I / Calculus with Precalculus II
+- (MATH) Single-Variable Calculus II
+- (MATH) Linear Algebra I
+- (STAT) Intro to Statistics
+
+## Core DATS Courses
+
+:::{.columns }
+
+:::{.column  width="48%"}
+
+- (1001)_Data Science for All
+- (2101)_Ethical Life in a Digital World
+- (2102)_Data Vizualization
+- (2103)_Data Mining
+- (2104)_Data Warehousing
+  
+
+:::
+
+::: {.column width="4%"}
+<!-- empty column to create gap -->
+:::
+
+:::{.column width="48%"}
+
+- (4001)_Data Capstone
+  
+:::
+:::
+
+No optional courses!
+
+
+# <red>Proposed</red> Program
+
+## Prerequisites {.smaller}
+
+- (CSCI) Introduction to Programming with Python	
+  - <red>CS is NOT doing a good job</red>
+- (MATH) Single-Variable Calculus I / Calculus with Precalculus II
+- (MATH) Single-Variable Calculus II
+- (MATH) Linear Algebra I
+  - <red>Students are not using these skills</red>
+- (STAT) Intro to Statistics
+- <red>(STAT)_Regression Analysis?</red>
+- <red>(STAT)_Math Stat?</red>
+
+## Core DATS Courses {.smaller}
+
+:::{.columns }
+
+:::{.column width="40%"}
+
+
+- (1001)_Data Science for All
+  - <green>Brainstorm objectives</green>
+- (2101)_Ethical Life in a Digital World
+- (2102)_Data Vizualization
+- (2103)_Data Mining
+  - <green>Brainstorm objectives</green>
+- (2104)_Data Warehousing
+- <red>?_Open-source programming</red>
+  - Python, R, Git, Bash, etc
+  - Compare and contrast 1001
+:::
+
+:::{.column width="60%"}
+
+
+- <red>?_(Interpretable) Machine Learning (ML)</red>
+  - Mathematical foundations
+  - Prereq: Multi-var Calc, DATS 2103
+- <red>?_Deep Learning</red>
+  - Prereq: Multi-var Calc, ML
+- <red>Anything else?</red>
+- (4001)_Data Capstone
+:::
+:::
+
+## The Capstone {.smaller}
+
+- projects are naive and not impactful
+- need real, <green>research-focused</green> projects with <green>strong outcomes</green>
+- Clearly defined outcomes: Dashboard / publications / <red>?</red>
+- Forge more ties with industry
+- Rethink instruction
+  - Instructors require specialized domain knowledge 
+  - allow group projects (max. 4 groups/section)
+  - lecture-style weekly interaction may not be the best strategy
+- <red>Other thoughts?</red>
 
 # Domain Concentrations
 
+## {.smaller}
+
+:::{.columns}
+
+:::{.column}
+
+- Astronomy and astrophysics ✅
+- Physics ✅
+- Biology: biodiversity and global change ✅
+- Biology: biotechnology ✅
+- Data journalism <red>?</red>
+- Economics ❌
+- Geospatial data science ✅
+- Mathematical modeling ✅
+- Science, technology and society <red>?<red>
+
+:::
+
+:::{.column}
+
+- Statistics
+- Our own concentrations
+  - Artificial Intelligence
+  - Visualization
+  - Machine Learning
+- <red>Anything else?</red>
+
+:::
+
+:::
+
+> There need to be pre-approved list of major and minors that count
+
 # Future Objectives
+
+- Research component
+- More faculty with undergraduate pedagogy in mind
+- Infrastructure
+- New home for DATS
+- 
 
 
 # Thanks
