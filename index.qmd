@@ -113,11 +113,13 @@ No optional courses!
   - Instructors require specialized domain knowledge 
   - allow group projects (max. 4 groups/section)
   - lecture-style weekly interaction may not be the best strategy
+- <green>CURE</green>: teach courses based on the CURE model (Course-Based Undergraduate Research Experience)
 - <red>Other thoughts?</red>
 
 # Domain Concentrations
 
-## {.smaller}
+
+## List {.smaller}
 
 :::{.columns}
 
@@ -142,21 +144,45 @@ No optional courses!
   - Artificial Intelligence
   - Visualization
   - Machine Learning
+  - Data Management / engineering / warehousing
 - <red>Anything else?</red>
 
 :::
 
 :::
 
-> There need to be pre-approved list of major and minors that count
+## How to <green>improve</green>?
+
+- There need to be pre-approved list of major and minors that count
+- Persons of contact in other departments that are <green>responsive</green> and <green>friendly</green>
+
+- <red>Thoughts?</red>
+
+# DATS <green>Minor</green>
+
+- When does it start?
+- Prerequisites / Requirements?
+- Can we grow/hire enough faculty/adjuncts to hold the capacity?
+
+
+# Resources Needed
+
+- More faculty to teach UG courses
+- Gradescope
+- Overleaf (exam prep, capstone report, articles, etc)
+- Standardize books, assignments for multi-section courses like DATS 1001
+- Incentives for course development
+- Incentives for writing UG research infrastructure grants (NSF/NIH)
+- <red>Anything else?</red>
+
 
 # Future Objectives
 
-- Research component
+- Acquire resources to help sustain the UG program
+- Well-defined research component (CURE)
 - More faculty with undergraduate pedagogy in mind
-- Infrastructure
-- New home for DATS
-- 
+- Infrastructure for students, faculty
+- <green>New home</green> for DATS
 
 
 # Thanks
